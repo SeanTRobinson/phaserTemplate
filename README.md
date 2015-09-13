@@ -1,4 +1,9 @@
-# phaserTemplate
+# Phaser Template
+### Installing
 
-npm install
-bower install
+    npm install
+    bower install
+    
+### Running
+    grunt
+
